@@ -1,0 +1,1 @@
+Using java swing and SQL with the large database used for school management projects. This project implemented all information stores, updates for students, teachers, and staff. And also implemented class info, student and teacher’s routine, exam fees, and result for students.
