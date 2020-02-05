@@ -26,7 +26,6 @@ public class AdminHome {
 			}
 		});
 	}
-
 	/**
 	 * Create the application.
 	 */
