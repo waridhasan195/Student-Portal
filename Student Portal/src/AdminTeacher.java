@@ -52,7 +52,6 @@ public class AdminTeacher {
 	public AdminTeacher() {
 		initialize();
 	}
-
 	/**
 	 * Initialize the contents of the frame.
 	 */
